@@ -1,2 +1,5 @@
 public class text {
-    public
+    public static void main (String []args){
+        
+    }
+}
